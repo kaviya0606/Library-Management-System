@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1781672270 source:c:\users\kaviya\desktop\cpp\library management system\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
